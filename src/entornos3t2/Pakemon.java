@@ -6,7 +6,8 @@ package entornos3t2;
 
 /**
  *
- * @author PACO
+ * @author Piero Desposorio Gonzales
+ * @version 1.0
  */
 public class Pakemon {
 
